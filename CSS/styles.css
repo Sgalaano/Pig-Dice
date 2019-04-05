@@ -1,1 +1,8 @@
- 
+body{
+  background-color:lightblue;
+}
+
+button {
+  background-color: pink;
+  padding: 15px 32px;
+}
