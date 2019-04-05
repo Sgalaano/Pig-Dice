@@ -1,8 +1,17 @@
 body{
   background-color:lightblue;
+  font-size: 30px;
+  color: purple;
 }
 
 button {
   background-color: pink;
   padding: 15px 32px;
+  display: inline-block;
+}
+
+h1{
+  text-align: center;
+  font-size: 60px;
+  color:  purple;
 }
