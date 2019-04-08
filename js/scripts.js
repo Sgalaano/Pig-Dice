@@ -15,7 +15,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
   $("#player2-roll").click(function gala2(){
-    var galanoGreat = Math.floor(Math.random()* 6)+1;
+    var galanoGreat = Math.floor(Math.random() * 6) +1;
     parseInt($("#round-total-2").text(galanoGreat));
     if (galano !== 1){
       total += galanoGreat;
